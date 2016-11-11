@@ -1,5 +1,7 @@
 AngularJSApp/bin
 AngularJSApp/obj
+AngularJSApp.Model/bin
+AngularJSApp.Model/obj
 packages
 .vs
 *.user
