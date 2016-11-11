@@ -1,0 +1,5 @@
+AngularJSApp/bin
+AngularJSApp/obj
+packages
+.vs
+*.user
